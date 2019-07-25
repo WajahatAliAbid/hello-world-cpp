@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-g","${relativeFile}","-o","{fileBasenameNoExtension}.out"
+                "-g","${relativeFile}","-o","${fileBasenameNoExtension}.out"
             ],
             "problemMatcher": {
                 "owner": "cpp",
