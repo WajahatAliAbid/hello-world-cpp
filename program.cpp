@@ -1,10 +1,15 @@
 #include <iostream>
+#include "add.h"
 using namespace std;
 
 int main()
 {
     cout << "Hello World" << endl;
-    float number;
+    int number;
     number = 5;
+    number << add(number, 5);
+
+    cout << number << endl;
+
     return 0;
 }
