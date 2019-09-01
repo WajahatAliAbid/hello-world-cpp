@@ -1,4 +1,4 @@
-#include "add.h"
+#include "functions.h"
 
 int add(int x, int y)
 {

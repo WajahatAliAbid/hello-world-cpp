@@ -1,5 +1,5 @@
 #include <iostream>
-#include "add.h"
+#include "functions.h"
 using namespace std;
 
 int main()
