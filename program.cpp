@@ -16,6 +16,7 @@ public:
         Pages = pages;
     }
 };
+
 // using pointer functions
 void increment(int *number)
 {
